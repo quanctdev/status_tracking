@@ -1,6 +1,7 @@
 # url_tracking
 
-A new Flutter application.
+https://github.com/quanctdev/status_tracking/blob/master/screen/Screenshot_1594010581.png
+https://github.com/quanctdev/status_tracking/blob/master/screen/Screenshot_1594010588.png
 
 ## Getting Started
 
