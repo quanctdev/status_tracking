@@ -8,11 +8,11 @@
      <td>Home when have data</td>
   </tr>
   <tr>
-    <td><img src="screen/Screenshot_1594010581.png" width=270 height=400></td>
-    <td><img src="screen/Screenshot_1594010588.png" width=270 height=400></td>
-    <td><img src="screen/Screenshot_1594010590.png" width=270 height=400></td>
-    <td><img src="screen/Screenshot_1594010596.png" width=270 height=400></td>
-    <td><img src="screen/Screenshot_1594010717.png" width=270 height=400></td>
+    <td><img src="screen/Screenshot_1594010581.png" width=270 height=350></td>
+    <td><img src="screen/Screenshot_1594010588.png" width=270 height=350></td>
+    <td><img src="screen/Screenshot_1594010590.png" width=270 height=350></td>
+    <td><img src="screen/Screenshot_1594010596.png" width=270 height=350></td>
+    <td><img src="screen/Screenshot_1594010717.png" width=270 height=350></td>
   </tr>
  </table>
 
