@@ -1,10 +1,4 @@
 # url_tracking
-![Image of screen](https://github.com/quanctdev/status_tracking/blob/master/screen/Screenshot_1594010581.png)
-![Image of screen](https://github.com/quanctdev/status_tracking/blob/master/screen/Screenshot_1594010588.png)
-![Image of screen](https://github.com/quanctdev/status_tracking/blob/master/screen/Screenshot_1594010590.png)
-![Image of screen](https://github.com/quanctdev/status_tracking/blob/master/screen/Screenshot_1594010596.png)
-![Image of screen](https://github.com/quanctdev/status_tracking/blob/master/screen/Screenshot_1594010717.png)
-
 <table>
   <tr>
      <td>Home</td>
@@ -14,11 +8,11 @@
      <td>Home when have data</td>
   </tr>
   <tr>
-    <td><img src="screen/Screenshot_1594010581.png" width=270 height=480></td>
-    <td><img src="screen/Screenshot_1594010588.png" width=270 height=480></td>
-    <td><img src="screen/Screenshot_1594010590.png" width=270 height=480></td>
-    <td><img src="screen/Screenshot_1594010596.png" width=270 height=480></td>
-    <td><img src="screen/Screenshot_1594010717.png" width=270 height=480></td>
+    <td><img src="screen/Screenshot_1594010581.png" width=270 height=400></td>
+    <td><img src="screen/Screenshot_1594010588.png" width=270 height=400></td>
+    <td><img src="screen/Screenshot_1594010590.png" width=270 height=400></td>
+    <td><img src="screen/Screenshot_1594010596.png" width=270 height=400></td>
+    <td><img src="screen/Screenshot_1594010717.png" width=270 height=400></td>
   </tr>
  </table>
 
